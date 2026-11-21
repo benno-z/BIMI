@@ -1,4 +1,5 @@
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <title>ZIWES</title>
   <rect x="0" y="0" width="100" height="100" fill="#1E293B" />
   <path d="M 36 22 H 64 C 65.7 22 67 23.3 67 25 V 41 C 67 42.7 65.7 44 64 44 H 36 C 34.3 44 33 42.7 33 41 V 25 C 33 23.3 34.3 22 36 22 Z M 36.5 25.2 L 50 34.8 L 63.5 25.2 H 36.5 Z M 36 28.5 V 41 H 64 V 28.5 L 51.3 37.6 C 50.5 38.2 49.5 38.2 48.7 37.6 Z" fill="#38BDF8" />
